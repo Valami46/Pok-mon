@@ -1,5 +1,8 @@
 h1 {
-  color: rgb(36, 13, 242);
+  color: rgb(10, 11, 11);
+  p {
+    text-shadow: 2px 2px red;
+  }
 }
 
 .kartya {
@@ -49,9 +52,9 @@ h1 {
   transform: scale(1.1);
 }
 body {
-  background-color: lightgreen;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pok%C3%A9mon_GO_logo.svg/1200px-Pok%C3%A9mon_GO_logo.svg.png");
-  background-size: cover;
+  background-color: rgb(240, 242, 240);
+  background-image: url("https://banner2.cleanpng.com/20240229/qbb/transparent-pokemon-two-cute-pokemon-characters-standing-1710858217597.webp");
+  background-size: 120px;
   background-position: center;
   background-attachment: fixed;
 }
